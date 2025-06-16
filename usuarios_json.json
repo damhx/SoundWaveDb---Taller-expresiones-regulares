@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "user001",
+    "nombre": "Ana",
+    "apellido": "González",
+    "email": "ana.gonzalez@gmail.com",
+    "edad": 25,
+    "ubicacion": {
+      "ciudad": "Bogotá",
+      "pais": "Colombia"
+    },
+    "generos_favoritos": ["Pop", "Rock", "Indie"],
+    "biografia": "Amante de la música indie y rock alternativo",
+    "fecha_registro": "2023-01-15",
+    "premium": true,
+    "seguidores": 150,
+    "siguiendo": 200
+  },
+  {
+    "_id": "user002",
+    "nombre": "Carlos",
+    "apellido": "Martínez",
+    "email": "carlos.martinez@hotmail.com",
+    "edad": 30,
+    "ubicacion": {
+      "ciudad": "Medellín",
+      "pais": "Colombia"
+    },
+    "generos_favoritos": ["Reggaeton", "Salsa", "Vallenato"],
+    "biografia": "DJ amateur, me encanta la música latina",
+    "fecha_registro": "2023-02-10",
+    "premium": false,
+    "seguidores": 89,
+    "siguiendo": 156
+  },
+  {
+    "_id": "user003",
+    "nombre": "María",
+    "apellido": "Rodríguez",
+    "email": "maria.rodriguez@gmail.com",
+    "edad": 22,
+    "ubicacion": {
+      "ciudad": "Cali",
+      "pais": "Colombia"
+    },
+    "generos_favoritos": ["Electronic", "House", "Techno"],
+    "biografia": "Productora musical especializada en música electrónica",
+    "fecha_registro": "2023-03-05",
+    "premium": true,
+    "seguidores": 320,
+    "siguiendo": 180
+  },
+  {
+    "_id": "user004",
+    "nombre": "Juan",
+    "apellido": "López",
+    "email": "juan.lopez@yahoo.com",
+    "edad": 28,
+    "ubicacion": {
+      "ciudad": "Barranquilla",
+      "pais": "Colombia"
+    },
+    "generos_favoritos": ["Jazz", "Blues", "Soul"],
+    "biografia": "Músico profesional, saxofonista de jazz",
+    "fecha_registro": "2023-01-20",
+    "premium": true,
+    "seguidores": 245,
+    "siguiendo": 120
+  },
+  {
+    "_id": "user005",
+    "nombre": "Andrea",
+    "apellido": "Fernández",
+    "email": "andrea.fernandez@gmail.com",
+    "edad": 24,
+    "ubicacion": {
+      "ciudad": "Bogotá",
+      "pais": "Colombia"
+    },
+    "generos_favoritos": ["K-pop", "J-pop", "Pop"],
+    "biografia": "Fan del K-pop y cultura asiática, colecciono vinilos",
+    "fecha_registro": "2023-04-12",
+    "premium": false,
+    "seguidores": 180,
+    "siguiendo": 300
+  },
+  {
+    "_id": "user006",
+    "nombre": "Diego",
+    "apellido": "Pérez",
+    "email": "diego.perez@outlook.com",
+    "edad": 35,
+    "ubicacion": {
+      "ciudad": "Cartagena",
+      "pais": "Colombia"
+    },
+    "generos_favoritos": ["Rock", "Metal", "Punk"],
+    "biografia": "Guitarrista de rock, amante del metal clásico",
+    "fecha_registro": "2023-02-28",
+    "premium": true,
+    "seguidores": 95,
+    "siguiendo": 80
+  },
+  {
+    "_id": "user007",
+    "nombre": "Sofia",
+    "apellido": "Jiménez",
+    "email": "sofia.jimenez@gmail.com",
+    "edad": 26,
+    "ubicacion": {
+      "ciudad": "Pereira",
+      "pais": "Colombia"
+    },
+    "generos_favoritos": ["Reggae", "Ska", "Dub"],
+    "biografia": "Activista social, la música reggae es mi filosofía de vida",
+    "fecha_registro": "2023-03-18",
+    "premium": false,
+    "seguidores": 67,
+    "siguiendo": 145
+  },
+  {
+    "_id": "user008",
+    "nombre": "Alejandro",
+    "apellido": "Herrera",
+    "email": "alejandro.herrera@gmail.com",
+    "edad": 31,
+    "ubicacion": {
+      "ciudad": "Bucaramanga",
+      "pais": "Colombia"
+    },
+    "generos_favoritos": ["Hip-hop", "Rap", "Trap"],
+    "biografia": "Rapper underground, compositor de letras urbanas",
+    "fecha_registro": "2023-01-08",
+    "premium": true,
+    "seguidores": 412,
+    "siguiendo": 90
+  },
+  {
+    "_id": "user009",
+    "nombre": "Valentina",
+    "apellido": "Castro",
+    "email": "valentina.castro@hotmail.com",
+    "edad": 23,
+    "ubicacion": {
+      "ciudad": "Manizales",
+      "pais": "Colombia"
+    },
+    "generos_favoritos": ["Folk", "Acoustic", "Country"],
+    "biografia": "Cantautora folk, toco la guitarra desde los 12 años",
+    "fecha_registro": "2023-04-01",
+    "premium": false,
+    "seguidores": 123,
+    "siguiendo": 200
+  },
+  {
+    "_id": "user010",
+    "nombre": "Andrés",
+    "apellido": "Ramírez",
+    "email": "andres.ramirez@gmail.com",
+    "edad": 29,
+    "ubicacion": {
+      "ciudad": "Santa Marta",
+      "pais": "Colombia"
+    },
+    "generos_favoritos": ["Cumbia", "Vallenato", "Champeta"],
+    "biografia": "Percusionista de música caribeña, amante de los ritmos costeños",
+    "fecha_registro": "2023-02-14",
+    "premium": true,
+    "seguidores": 200,
+    "siguiendo": 150
+  }
+]
